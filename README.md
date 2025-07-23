@@ -190,3 +190,6 @@ Once your `app.py` file is created, go to the folder where `app.py` is present a
 This will automatically open your app in the browser at:
 http://localhost:8501
 
+---
+## Functionality
+[🎥 Watch the Functionality Demo](https://github.com/udayasindhu/people-insights/raw/main/Functionality.mp4)
