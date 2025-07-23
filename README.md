@@ -133,17 +133,19 @@ The People Insights Dashboard includes the following key features:
 
 ## 📁 Project Structure
 
+<pre lang="markdown">
 people_insights/
-├── app.py # Main entry point
-├── README.md # Project documentation
+├── app.py                       # Main entry point
+├── README.md                    # Project documentation
 ├── data/
-│ └── people_data.csv # Sample people dataset
+│   └── people_data.csv          # Sample people dataset
 ├── pages/
-│ ├── explore_data.py # View & filter uploaded data
-│ ├── visualize_trends.py # Demographic visualizations
-│ └── central_document_vault.py # Document manager for PDFs/images
+│   ├── explore_data.py          # View & filter uploaded data
+│   ├── visualize_trends.py      # Demographic visualizations
+│   └── central_document_vault.py # Document manager for PDFs/images
 └── utils/
-└── helpers.py # Reusable helper functions
+    └── helpers.py               # Reusable helper functions
+</pre>
 
 ---
 
